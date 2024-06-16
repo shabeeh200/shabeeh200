@@ -6,6 +6,7 @@ I'm Shabeeh, a passionate software engineering student currently in my seventh s
 
 ### 🛠️ My Toolkit
 - **Languages:** Java, JavaScript, C++, PHP, Python
+- **Web Development:** HTML, CSS, Tailwind CSS
 - **Frameworks & Libraries:** React, Node.js, Express, Spring Boot
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VSCode, Jupyter
