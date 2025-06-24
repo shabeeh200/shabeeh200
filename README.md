@@ -1,4 +1,4 @@
-## Shabeeh’s GitHub Profile
+## Shabeeh Fatima
 
 A software engineer in training—focused on practical back-end development, cloud/DevOps fundamentals, and real-world problem solving.
 
@@ -42,8 +42,8 @@ Python data pipeline for live stock-price feeds—end-to-end analysis under real
 
 - Strengthening **cloud security** fundamentals (IAM, VPC, encryption)  
 - Exploring **Kubernetes** for container orchestration and scaling  
-- Building hands-on experience with **observability** (Prometheus, Grafana)  
-
+- Building hands-on experience with **observability** (Prometheus, Grafana)
+- **Experimenting with different specializations** to discover the areas I’m most passionate about  
 ---
 
 
