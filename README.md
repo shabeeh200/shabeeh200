@@ -30,11 +30,9 @@ A MERN-stack platform for reforestation campaigns:
 
 #### Feature Flag Service (Portfolio)  
 Self-hosted microservice to manage on/off toggles for any application:  
-- Express API · Redis cache · MongoDB storage  
+- Express API · Node-cache · MongoDB storage  
 - React dashboard · Client SDK · Docker & CI/CD pipeline  
 
-#### Virtual Internship: J.P. Morgan Simulation  
-Python data pipeline for live stock-price feeds—end-to-end analysis under real-world constraints.  
 
 ---
 
