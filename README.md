@@ -21,21 +21,6 @@ A software engineer in training—focused on practical back-end development, clo
 
 ---
 
-### Highlighted Projects
-
-#### Plantify (FYP)  
-A MERN-stack platform for reforestation campaigns:  
-- Campaign management, donation gateway, volunteer coordination  
-- Community feed, chat, and eco-challenge features  
-
-#### Feature Flag Service (Portfolio)  
-Self-hosted microservice to manage on/off toggles for any application:  
-- Express API · Node-cache · MongoDB storage  
-- React dashboard · Client SDK · Docker & CI/CD pipeline  
-
-
----
-
 ### Next Steps & Learning
 
 - Strengthening **cloud security** fundamentals (IAM, VPC, encryption)  
