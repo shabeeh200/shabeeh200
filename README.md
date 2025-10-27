@@ -8,7 +8,7 @@ A software engineer in training—focused on practical back-end development, clo
 
 - **Languages:** JavaScript (Node.js), Java, Python  
 - **Backend & APIs:** Express · MongoDB · Redis · RESTful design  
-- **DevOps & Infrastructure:** Docker · AWS (EC2, Lambda) · GitHub Actions  
+- **DevOps & Infrastructure:** Docker · GitHub Actions  
 - **Frontend Fundamentals:** React · Tailwind CSS  
 
 ---
